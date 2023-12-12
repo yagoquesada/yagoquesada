@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Yago Quesada Floriach</h1>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Yago Quesada Floriach</h1></summary>
+  </ul>
+</div>
+
+
 <h3 align="center">A dynamic and energetic Audiovisual Systems Engineer, possionate about Mobile App Development</h3>
 
-- 🔭 I’m currently working on **LabHouse as a Mobile Developer**
+- 🔭 I’m currently working on **[LabHouse](https://www.labhouse.io/) as a Mobile App Developer**
 
 - 🌱 I’m currently learning **more about Web Development and noSQL Databases**
 
-- 📫 How to reach me **yagoquesada@gmail.com**
+- 📫 Reach me via email at **yagoquesada@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yago-quesada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yagoquesada" height="30" width="40" /></a>
-<a href="https://instagram.com/yagoquesada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yagoquesada" height="30" width="40" /></a>
-</p>
+<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 <h5 align="left">Programming Languages</h5>
@@ -64,6 +67,14 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
 </p>
 
+<hr/>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagoquesada&show_icons=true&locale=en&layout=compact&theme=radical" alt="yagoquesada" /></p>
 
+<hr/>
 
+<h3 align="left">Let's Connect...</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yago-quesada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yagoquesada" height="30" width="40" /></a>
+<a href="https://instagram.com/yagoquesada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yagoquesada" height="30" width="40" /></a>
+</p>
